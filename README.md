@@ -90,7 +90,7 @@ Each topic is explained separately in the `docs` folder.
 
 ## Detailed Documentation
 
-* [VCN Overview](docs/vcn-overview.md)
+* [VCN Overview](Documents/VCN-Overview.md)
 * [Subnet Design](docs/subnet-design.md)
 * [OCI Gateways](docs/gateways.md)
 * [Security Lists vs Network Security Groups](docs/security-lists-vs-nsg.md)
