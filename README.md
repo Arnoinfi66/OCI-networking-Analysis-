@@ -105,9 +105,9 @@ After reviewing this repository, readers should be able to:
 ## Repository Structure
 
 ```text
-oci-networking-deep-dive/
+oci-networking-Analysis/
 ├── README.md
-└── docs/
+└── Documents/
     ├── vcn-overview.md
     ├── subnet-design.md
     ├── gateways.md
