@@ -29,6 +29,3 @@ I created learning notes, simple architecture flow diagrams, and product usage d
 
 My key learning is that OCI networking depends on the relationship between VCNs, subnets, gateways, route tables, and security controls. A subnet alone does not define traffic behavior. Routing and security rules must be reviewed together.
 
-## Confidentiality Note
-
-All examples are based on my own learning/demo environment. No client-confidential or proprietary information is included.
