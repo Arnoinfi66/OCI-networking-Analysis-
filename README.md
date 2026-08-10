@@ -100,20 +100,6 @@ After reviewing this repository, readers should be able to:
 * Understand how OCI networking components work together
 * Design a basic, secure, and scalable OCI network architecture
 
----
-
-## Repository Structure
-
-```text
-oci-networking-Analysis/
-├── README.md
-└── Documents/
-    ├── vcn-overview.md
-    ├── subnet-design.md
-    ├── gateways.md
-    ├── security-lists-vs-nsg.md
-    └── routing-and-traffic-flow.md
-```
 
 
 
