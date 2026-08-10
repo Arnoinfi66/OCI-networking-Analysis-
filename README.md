@@ -88,18 +88,6 @@ Each topic is explained separately in the `docs` folder.
 
 ---
 
-## Detailed Documentation
-
-* [VCN Overview](Documents/VCN-Overview.md)
-* [Subnet Design](docs/subnet-design.md)
-* [OCI Gateways](docs/gateways.md)
-* [Security Lists vs Network Security Groups](docs/security-lists-vs-nsg.md)
-* [Routing and Traffic Flow](docs/routing-and-traffic-flow.md)
-
-Relative links are used so that the documentation continues to work when the repository is copied, renamed, or moved to another GitHub account.
-
----
-
 ## Key Learning Outcomes
 
 After reviewing this repository, readers should be able to:
