@@ -1,0 +1,12 @@
+flowchart TD
+    A[Internet] --> B[Internet Gateway]
+    B --> C[VCN]
+    C --> D[Public Subnet]
+    D --> E[Load Balancer or Public Resource]
+    C --> F[Private Subnet]
+    F --> G[Application Server]
+    F --> H[NAT Gateway for outbound internet access]
+    F --> I[Service Gateway for private OCI service access]
+
+    C --> J[Route Tables]
+    C --> K[Security Lists / NSGs]
