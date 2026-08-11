@@ -59,16 +59,6 @@ This is a simple learning example. In a real implementation, the design may chan
 
 ---
 
-## Documentation
-
-- [VCN Overview](Documents/OCIGateways.md)
-- [Subnet Design](docs/subnet-design.md)
-- [OCI Gateways](docs/gateways.md)
-- [Routing and Traffic Flow](docs/routing-and-traffic-flow.md)
-- [Security Lists vs Network Security Groups](docs/security-lists-vs-nsg.md)
-
----
-
 ## What I Learned
 
 The key learning from this exercise is that OCI networking is not only about creating a VCN or subnet.
