@@ -5,11 +5,8 @@
 ## Overview
 
 I created this repository after being accepted into the Oracle ACE Apprentice Program to document my learning and understanding of Oracle Cloud Infrastructure networking.
-
 The repository explains the core OCI networking components, including Virtual Cloud Networks, public and private subnets, route tables, gateways, Security Lists, and Network Security Groups.
-
 My main learning from this exercise is that OCI networking should not be viewed as separate components. VCNs, subnets, route tables, gateways, and security rules need to work together to control traffic flow and support a secure cloud design.
-
 This repository is based on my own learning and documentation. No client-confidential, proprietary, or project-specific information is included.
 
 ---
