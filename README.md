@@ -61,7 +61,7 @@ This is a simple learning example. In a real implementation, the design may chan
 
 ## Documentation
 
-- [VCN Overview](docs/vcn-overview.md)
+- [VCN Overview](documents/vcn-overview.md)
 - [Subnet Design](docs/subnet-design.md)
 - [OCI Gateways](docs/gateways.md)
 - [Routing and Traffic Flow](docs/routing-and-traffic-flow.md)
